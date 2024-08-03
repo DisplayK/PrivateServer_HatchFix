@@ -5,7 +5,7 @@
 Makes the hatch behave as you exepct it to. When there are only 2 players the hatch is disabled. When using the Console Mod, the command "hatch" allows for manual control of the hatch.
 
 
-## Project instructions
+## Project instructions (For use with Unreal Engine)
 If you already have the Console Mod project, you can just add the Content folder from this project to Console mods project
 
 - Righ click the "DeadByDaylight.uproject" file and select "Generate visual studio project files"
